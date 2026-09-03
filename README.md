@@ -1,2 +1,0 @@
-# CodeWorld
-A website project
